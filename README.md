@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
   </a>
   <a href="https://main--darling-speculoos-502e4f.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-brown?style=for-the-badge&logo=computer&logoColor=white" alt="Website"/>
   </a>
 </div>
 
@@ -32,14 +32,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am Auro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> a senior at the University of California, San Diego.
+I am Auro, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> a senior at the University of California, San Diego.
 - :telescope: I’m currently majoring in Business Economics with minors in Finance, Mathematics, and Computational Social Sciences.
 
 - :seedling: Exploring applications of quantitative methods in the financial landscape.
 
 - :zap: In my free time, I enjoy playing chess, rock climbing, and going to the gym.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AuroDutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audutta/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AuroDutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audutta/) or by mail at audutta@ucsd.edu.
 
 ---
 
