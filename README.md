@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/audutta/)">
+  <a href="https://www.linkedin.com/in/audutta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/auro_dutta/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://main--darling-speculoos-502e4f.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
   </a>
 </div>
 
@@ -32,14 +32,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am Auro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> a senior at the University of California, San Diego.
+- :telescope: I’m currently majoring in Business Economics with minors in Finance, Mathematics, and Computational Social Sciences.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring applications of quantitative methods in the financial landscape.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I enjoy playing chess, rock climbing, and going to the gym.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AuroDutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audutta/)
 
 ---
 
