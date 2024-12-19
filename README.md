@@ -41,6 +41,8 @@ I am Auro, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AuroDutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audutta/) or by mail at audutta@ucsd.edu.
 
+- Check out my webpage at: https://aurodutta.github.io/
+
 ---
 
 ### :fire: My Stats :
