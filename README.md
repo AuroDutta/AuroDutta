@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/auro_dutta/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
   </a>
-  <a href="https://main--darling-speculoos-502e4f.netlify.app/">
+  <a href="https://aurodutta.github.io/">
     <img src="https://img.shields.io/badge/Website-brown?style=for-the-badge&logo=computer&logoColor=white" alt="Website"/>
   </a>
 </div>
