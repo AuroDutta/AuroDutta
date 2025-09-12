@@ -32,14 +32,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am Auro, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> a senior at the University of California, San Diego.
-- :telescope: I’m currently majoring in Business Economics with minors in Finance, Mathematics, and Computational Social Sciences.
+I am Auro, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> a financial engineering graduate student at the Massachusetts Instititute of Technology (MIT).
+- :telescope: I majored in Economics with minors in Finance, and Computational Social Sciences at the University of California, San Diego (UCSD).
 
-- :seedling: Exploring applications of quantitative methods in the financial landscape.
+- :seedling: Exploring effects, benefits, and insights of applying quantitative methods across asset classes in the financial landscape.
 
 - :zap: In my free time, I enjoy playing chess, rock climbing, and going to the gym.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AuroDutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audutta/) or by mail at audutta@ucsd.edu.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AuroDutta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audutta/) or by mail at audutta@mit.edu.
 
 - Check out my webpage at: https://aurodutta.github.io/
 
